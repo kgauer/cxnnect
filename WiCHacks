@@ -1,0 +1,47 @@
+<h1>THE LATEST</h1>
+<html>
+<head>
+<body>
+<style>
+h1 {
+    color: solid black;
+    font-family: italic;
+    font-size: 600%;
+    text-align: center;
+    background-color: none;
+    border-style: solid;
+
+
+}
+</style>
+</head>
+
+<h2> Check out the latest from our global activists!</h2>
+<head>
+<style>
+body {
+    background-color: none;
+    text-align: center;
+	font-style: italic;
+	padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+h2 {
+    color: lightgrey;
+    background-color: none;
+    position: relative;
+	bottom: 65px;
+} 
+
+</style>
+</head>
+</body>
+
+</html>
+
+
+   
+
+
